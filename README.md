@@ -14,7 +14,7 @@ Here is the graph I got from predicting the new number cases (Black line)
 
 
 I have attached the datasheet with this project. You can download the updated version of the dataseet from:-
-https://github.com/owid/covid-19-data/tree/master/public/data
+https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 For more details about this project visit:-
 1) kaggle
