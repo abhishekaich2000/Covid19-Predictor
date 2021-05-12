@@ -26,5 +26,5 @@ https://matplotlib.org/
 3) Numpy
 https://numpy.org/
 
-4)
+4) Pandas
 https://pandas.pydata.org/
